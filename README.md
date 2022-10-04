@@ -2,19 +2,12 @@
 
 This repository has the code used to produce the results the paper entitiled: "Fame through surprise: How fame-seeking mass shooters diversify their attacks."
 
-The repository contains three files:
+The repository contains four files:
 
-1-Statistics
+1-Statistics: a noteboook that was compiled with the original dataset to show the results of the manuscript. The notebook is static and should be compiled again as it would not produce correct results (Wihout the original dataset).
 
-2-Dummy_Statistics
+2-Dummy_Statistics: a notebook that can be executed with the "Mass Shootings (08_1966-04_2021)" dummy dataset to give a sense on how the code is built.
 
-3-Mass Shootings (08_1966-04_2021)
+3-Mass Shootings (08_1966-04_2021): a dummy dataset of mock mass shootings. The original dataset will be available upon request from the correspinding author: mporfiri@nyu.edu.
 
-4-Wikipidia Data
-
-
-The statistics noteboook is executed with the original dataset.
-
-Dummy_Statistics notebook is executed with the "Mass Shootings (08_1966-04_2021)" dataset to give a sense on how the data looked like.
-
-The Wikipidia Data.xlsx is the dataset for the Wikipedia time series data for all available mass shootings/shooters
+4-Wikipidia Data: a dataset containing the Wikipedia time series for all available mass shootings/shooters.
