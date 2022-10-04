@@ -10,7 +10,11 @@ The repository contains three files:
 
 3-Mass Shootings (08_1966-04_2021)
 
+4-Wikipidia Data
+
 
 The statistics noteboook is executed with the original dataset.
 
 Dummy_Statistics notebook is executed with the "Mass Shootings (08_1966-04_2021)" dataset to give a sense on how the data looked like.
+
+The Wikipidia Data.xlsx is the dataset for the Wikipedia time series data for all available mass shootings/shooters
