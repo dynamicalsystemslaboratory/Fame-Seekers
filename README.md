@@ -9,5 +9,3 @@ The repository contains four files:
 2-Dummy_Statistics: a notebook that can be executed with the "Mass Shootings (08_1966-04_2021)" dummy dataset to give a sense on how the code is built.
 
 3-Mass_Shootings_dummy: a dummy dataset of mock mass shootings. The original dataset will be available upon request from the correspinding author: mporfiri@nyu.edu.
-
-4-Wikipidia Data: a dataset containing the Wikipedia time series for all available mass shootings/shooters.
