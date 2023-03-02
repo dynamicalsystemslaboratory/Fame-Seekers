@@ -13,3 +13,5 @@ The repository contains four files:
 4-Monte_Carlo:a noteboook that was compiled with the original dataset to show the results of the robustness test with respect to Target Group feature. The notebook is static and should not be compiled again as it would not produce correct results (Wihout the original dataset).
 
 5-Dummy_Monte_Carlo:a notebook that can be executed with the "Mass_Shootings_dummy" dummy dataset to give a sense on how the code for the robustness is built.
+
+6-Surprisal and Fame Values: contains the values of surprisal and fame measures presented in the supplementary information of the paper.
