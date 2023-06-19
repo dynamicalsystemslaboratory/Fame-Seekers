@@ -1,6 +1,6 @@
 # Fame through surprise: How fame-seeking mass shooters diversify their attacks.
 
-Note: Fig.1 y-axis should read "10^1, 10^2, 10^3, 10^4, 10^5, 10^6" instead of "10^1, 10^2, 10^3, 10^5, 10^6, 10^7"
+Note: On the vertical axis of Fig. 1, the 10^4 mark was inadvertently skipped. Markers on the axis should start from 10^1 and end at 10^6.
 
 
 This repository has the code used to produce the results of the paper entitled: "Fame through surprise: How fame-seeking mass shooters diversify their attacks."
